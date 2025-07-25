@@ -21,4 +21,4 @@ Images are referenced in `.txt` or `.md` knowledgebase files using Markdown form
 
 ## ⚠️ Notice
 
-All content in this repository is intended for internal use by
+All content in this repository is intended for internal use by The Hotel Only
